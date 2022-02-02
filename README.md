@@ -17,7 +17,11 @@ const Tadeo = {
 
 ---
 
+<h3>This is my profile where I show my projects that I am doing to practice
+
+  
 ⭐️ From [@Tadeo](https://github.com/tadeo-vardanega-02)
+
 
 <!--
 **tadeo-vardanega-02/tadeo-vardanega-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
