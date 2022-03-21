@@ -8,10 +8,9 @@
 ### A little more about me...  
 
 ```Python
-const Tadeo = {
-  code: [Python, R , SQL, NoSQL, Linux, HTML, CSS, JavaScript],
-  tools: [Excel, Power Bi,MySQL, PostgreSQL, MongoDB],
-               },
+def Tadeo():
+      code = [Python, R , SQL, NoSQL, Linux, HTML, CSS, JavaScript]
+      tools = [Excel, Power Bi,MySQL, PostgreSQL, MongoDB]         
 ``` 
 
 
