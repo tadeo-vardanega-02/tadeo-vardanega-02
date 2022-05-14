@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Tadeo Vardánega! 
-<p><em>Mechanical Technician</a></br>Data Science Student at Universidad de Buenos Aires</a>
+<p><em>Mechanical Technician and Data Analyst at Gradiente SpA</a></br>Data Science Student at Universidad de Buenos Aires</a>
 </em></p>
 
 [![Linkedin: Tadeo Vardánega](https://img.shields.io/badge/-Tadeo%20Vard%C3%A1nega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeo-vard%C3%A1nega/)](https://www.linkedin.com/in/tadeo-vardánega/)
@@ -9,8 +9,13 @@
 
 ```Python
 def Tadeo():
-      code = [Python, R , SQL, NoSQL, Linux, HTML, CSS, JavaScript]
-      tools = [Excel, Power Bi,MySQL, PostgreSQL, MongoDB]         
+
+      code = [Python, R , SQL, NoSQL, Linux, 
+              Java, HTML, CSS, JavaScript]
+              
+      tools = [Excel, Power Bi, MySQL, PostgreSQL, 
+               Oracle, MongoDB, Airflow, Hadoop, 
+               Git, Pentaho PDI, Docker]         
 ``` 
 
 
