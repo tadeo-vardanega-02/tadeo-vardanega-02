@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Tadeo Vardánega! 
-<p><em>Mechanical Technician and Data Analyst at Gradiente SpA</a></br>Data Science Student at Universidad de Buenos Aires</a>
+<p><em>Mechanical Technician and Data Engineer at Taligent - Business Analytics</a></br>Data Science Student at Universidad de Buenos Aires</a>
 </em></p>
 
 [![Linkedin: Tadeo Vardánega](https://img.shields.io/badge/-Tadeo%20Vard%C3%A1nega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeo-vard%C3%A1nega/)](https://www.linkedin.com/in/tadeo-vardánega/)
