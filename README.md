@@ -3,19 +3,40 @@
 <p><em>Mechanical Technician and Data Engineer at Taligent - Business Analytics</a></br>Data Science Student at Universidad de Buenos Aires</a>
 </em></p>
 
-[![Linkedin: Tadeo Vardánega](https://img.shields.io/badge/-Tadeo%20Vard%C3%A1nega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeo-vard%C3%A1nega/)](https://www.linkedin.com/in/tadeo-vardánega/)
+[![Linkedin: Tadeo Vardánega](https://img.shields.io/badge/-Tadeo%20Vard%C3%A1nega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeo-vard%C3%A1nega/)](https://www.linkedin.com/in/tadeo-vardanega/)
 
 ### A little more about me...  
 
 ```Python
 def Tadeo():
 
-      code = [Python, R , SQL, NoSQL, Linux, 
-              Java, HTML, CSS, JavaScript]
-              
-      tools = [Excel, Power Bi, MySQL, PostgreSQL, 
-               Oracle, MongoDB, Airflow, Hadoop, 
-               Git, Pentaho PDI, Docker]         
+      Programming_Languages = [Python, AWS Lambda, R]
+      
+      DBs = [Mysql, PostgreSQL, Oracle, SQL Server, MongoDB]
+      
+      Visualization_Tools = [Power BI, Apache Grafana]
+      
+      Cloud = [AWS, Azure, GCP]
+      
+      Big_data_frameworks = [Apache Airflow, Hadoop, Spark, Flink, Beam, Kafka]
+      
+      CI/CD = [Github Actions, AWS CodePipeline]
+      
+      AWS_Development = [AWS SAM, CDK, SDK]
+      
+      ETL = [AWS Glue, Pentaho PDI,Talend]
+      
+      Infrastructure = [Terraform, CloudFormation, Docker, Kubernetes]
+      
+      Web Development = [Django, Flask, HTML, CSS]
+      
+      Operating_System = [Linux]
+      
+      Others = [Machine Learning, Deep Learning, Testing]
+      
+
+
+
 ``` 
 
 
